@@ -1,4 +1,7 @@
 # Netflix_Movies_And_TV_Shows_Clustering_-Unsupervised_ML-
+![image](https://github.com/user-attachments/assets/f8a1c3a2-a6b7-4dd8-b2d7-3ffcc010f238)
+![image](https://github.com/user-attachments/assets/02b5a585-0a96-42bd-ab15-1221168361a6)
+
 ![image](https://github.com/user-attachments/assets/6f4898e6-c368-43c8-b540-b4fb6127f211)
 ![image](https://github.com/user-attachments/assets/390dc571-076a-4504-a042-7993629ce305)
 
